@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### GitHub For Cycrypto 👋
+I am student from South Korea.
+I Hope to be the best Programmer all of the world!
+My 1st language is Python
 <!--
 **Cycrypto/Cycrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
