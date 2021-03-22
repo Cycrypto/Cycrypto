@@ -1,4 +1,5 @@
 ### Github For Park Jun Ha :hand:
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Park%20Jun%20Ha&fontSize=90&rotate=15&fontAlign=70&fontAlignY=50&animation=twinkling)
 
 ## GitHub States
@@ -15,3 +16,4 @@
     <img src="	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </center>
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=footer&)
