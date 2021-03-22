@@ -1,6 +1,6 @@
 ### GitHub For Cycrypto 👋
 I am student from South Korea.<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cycrypto&show_icons=true&thema=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vision-friendly-dark)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
