@@ -8,7 +8,7 @@
 <div align="center">
 <pre>I am majoring in computer science in Korea.
 My main language is Python.
-Recently, the project I'm working on is Chetobot, which I'm building with Python </pre>
+Recently, the project I'm working on is ChatBot, which I'm building with Python </pre>
 </div>
 
 
