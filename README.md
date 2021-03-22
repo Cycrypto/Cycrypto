@@ -1,6 +1,8 @@
 ### Github For Park Jun Ha :hand:
 
+<div align="left">
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Park%20Jun%20Ha&fontSize=90&rotate=15&fontAlign=70&fontAlignY=50&animation=twinkling)
+</div>
 
 ## GitHub States
 
