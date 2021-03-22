@@ -5,14 +5,12 @@
 
 ### Hi There :hand:  
 
-<center>
-:raised_hand_with_fingers_splayed: I am majoring in computer science in Korea.
+:raised_hand_with_fingers_splayed: <a>I am majoring in computer science in Korea.</a><br>
 
 :raised_hand_with_fingers_splayed: •My main language is Python.
 
 :raised_hand_with_fingers_splayed:Recently, the project I'm working on is Chetobot, which I'm building with Python 
 
-</center>
 
 ### GitHub States
 
