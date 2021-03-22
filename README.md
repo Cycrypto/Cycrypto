@@ -1,6 +1,7 @@
 
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=4682B4&height=300&section=header&text=Park%20Jun%20Ha&fontSize=90&rotate=15&fontAlign=70&fontAlignY=50&fontColor=white&animation=twinkling"/>
+</div>
 ## Github For Park Jun Ha :hand:
 
 ### GitHub States
@@ -11,6 +12,6 @@
 </div>
 
 
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=CCBD37&height=300&section=footer&)
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=CCBD37&height=300&section=footer&"/>
+</div>
