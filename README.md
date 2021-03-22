@@ -1,6 +1,10 @@
 ### GitHub For Cycrypto 👋
-I am student from South Korea.<
-My 1st language is Python
+I am student from South Korea.<br/>
+<div align=center>  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
+
 <!--
 **Cycrypto/Cycrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
