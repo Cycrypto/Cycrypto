@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=4682B4&height=300&section=header&text=Park%20Jun%20Ha&fontSize=90&rotate=15&fontAlign=70&fontAlignY=50&fontColor=white&animation=twinkling"/>
 </div>
-### Hi There :hand:  
-
+### Hi There :hand:
 :raised_hand_with_fingers_splayed: I am majoring in computer science in Korea.
 
 :raised_hand_with_fingers_splayed: ​My main language is Python.
