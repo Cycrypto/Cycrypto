@@ -25,10 +25,15 @@ Recently, the project I'm working on is Chetobot, which I'm building with Python
 <br>
 
 <div align="center">
-<a><img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=jh01love"/></a><br>
 <a><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Cycrypto&theme=blue-green"></a>
 </div>
 
+### BOJ (Solved.ac)
+<div align="center">
+<a><img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=jh01love"/></a><br>
+</div>
+
+### Etc..
 <div align="center">
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCycrypto%2Fhit-counter&count_bg=%23D4DD12&title_bg=%2379C83D&icon=googleanalytics.svg&icon_color=%23EBE4E4&title=hits&edge_flat=false"/>
