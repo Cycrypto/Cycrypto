@@ -30,7 +30,7 @@ Recently, the project I'm working on is Chetobot, which I'm building with Python
 
 ### BOJ (Solved.ac)
 <div align="center">
-<a><img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=jh01love"/></a><br>
+<a><img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=jh01love" href="https://solved.ac/jh01love"></a><br>
 </div>
 
 ### Etc..
