@@ -22,12 +22,10 @@ Recently, the project I'm working on is Chetobot, which I'm building with Python
         <img src="  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     </div>
 </div>
-<center>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh01love)](https://solved.ac/jh01love)
-</center>
 <br>
 
 <div align="center">
+<a><img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=jh01love)](https://solved.ac/jh01love"/></a>
 <a><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Cycrypto&theme=blue-green"/></a>
 </div>
 
