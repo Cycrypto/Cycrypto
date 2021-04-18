@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=4682B4&height=250&section=header&text=Park%20Jun%20Ha&fontSize=90&rotate=10&fontAlign=70&fontAlignY=35&fontColor=ffffff&animation=twinkling"/>
-</div>
-
-
 ### Hi There :hand:  
 
 <div align="center">
@@ -28,7 +23,7 @@ Recently, the project I'm working on is Chetobot, which I'm building with Python
     </div>
 </div>
 
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh01love)](https://solved.ac/jh01love)
 
 <br>
 
@@ -42,8 +37,3 @@ Recently, the project I'm working on is Chetobot, which I'm building with Python
 </a>
 <a> <img src = "https://gpvc.arturio.dev/Cycrypto"/></a>
 </div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=CCBD37&height=150&section=footer&"/>
-</div>
- 
