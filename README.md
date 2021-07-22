@@ -20,6 +20,9 @@ Recently, the project I'm working on is Chetobot, which I'm building with Python
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+        <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white">
+
+출처: https://byul91oh.tistory.com/214 [개발하는 감자 [: 개감]]
     </div>
 </div>
 <br>
