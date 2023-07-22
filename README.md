@@ -53,6 +53,7 @@ For the sake of my dream, I am now spending a lot of time studying algorithms an
     <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
+<!--
 #### IDE
 <div align="center">
     <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
@@ -65,7 +66,7 @@ For the sake of my dream, I am now spending a lot of time studying algorithms an
     <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 </div>
-
+-->
 #### Tech Blog
 <div align="center">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
