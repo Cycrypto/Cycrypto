@@ -2,8 +2,7 @@
 
 <div align="center">
 <pre>
-I am a student studying "Computer Engineering", "Algorithms" and "Web" to become the world's best back-end developer.
-For the sake of my dream, I am now spending a lot of time studying algorithms and mathematics.
+백엔드 개발자.
 </pre>
 </div>
 
