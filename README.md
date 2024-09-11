@@ -1,9 +1,15 @@
 ### This is My Page! 🤙 
 
 <div align="center">
-<pre>
-백엔드 개발자.
-</pre>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Cycrypto"
+    width="600"
+    height="120"
+  />
+</a>
+  
 </div>
 
 ### Tech Stacks 💻
