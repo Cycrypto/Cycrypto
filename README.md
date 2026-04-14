@@ -38,51 +38,6 @@
   </tr>
 </table>
 
-## Selected Work
-
-### 🏫 산돌이 | 교내 정보 알림 카카오톡 챗봇
-- 사용자 피드백 수집 구조를 직접 만들고 요청 빈도로 기능 우선순위를 정립
-- 누적 사용자 7,000+ / 월 활성 사용자 3,000+ 규모로 운영
-- AWS SAM 전환으로 배포 시간 15분 → 3분 단축
-
-**Stack**  
-Python · Flask · AWS Lambda · AWS SAM · Kakao Developers
-
-**Links**  
-[Repo](https://github.com/teamSANDOL/tuk_sandol_team) · [Service](https://pf.kakao.com/_pRxlZxb)
-
-### ⚖️ Legal AI Search Infra
-- 13만 건 문서를 다루는 법률 검색 서비스 인프라와 AI 스택 재설계
-- HNSW → IVF_SQ8 실험으로 인덱스 메모리 12GB → 5GB 최적화
-- 기존 결과와 97% 수준의 일치도를 유지하며 EC2 기반 운영 구조 정비
-
-**Stack**  
-AWS EC2 · Docker Compose · Flask · Milvus · Gemini API
-
-**Links**  
-Private repository
-
-### ⏱️ Krocs | 시간 운영 서비스
-- Product Engineer로 타겟 사용자 정의, 문제 정의, 핵심 피처 설계 주도
-- Spring Boot · PostgreSQL · Redis · Docker · GitHub Actions 기반으로 실제 릴리즈
-- 2025 Seeds 프로젝트 최종 발표회 최우수상
-
-**Stack**  
-Spring Boot · PostgreSQL · Redis · Docker · GitHub Actions · GCP
-
-**Links**  
-[Repo](https://github.com/seeds-hotpack/krocs-backend) · [Service](https://www.krocs.life/)
-
-### 🤖 AI-Assisted Development Workflow
-- AGENTS.md, 역할 분리된 subagent, 이슈 백로그, Worktree 기반 병렬 개발 실험
-- Codex / OpenCode를 기획 · 구현 · 리뷰 플로우에 연결
-- 개발 과정과 산출물의 재현성을 높이는 개인 실험 프로젝트
-
-**Stack**  
-TypeScript · Next.js · Python · Codex · n8n · Docker
-
-**Links**  
-[Repo](https://github.com/Cycrypto/portfolio-blog)
 
 ## How I Build
 
